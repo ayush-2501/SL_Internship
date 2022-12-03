@@ -1,1 +1,1 @@
-# SL_Internship
+Shak Labs Internship Assignment
